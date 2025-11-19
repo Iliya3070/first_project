@@ -1,0 +1,28 @@
+h1 {
+    font-size: 38px;
+}
+h2 {
+    margin-right: 16px;
+}
+h3 {
+    margin-right: 24px;
+}
+div {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+span {
+    margin-right: 24px;
+}
+.progress {
+    margin-right: 24px;
+    width: 300px;
+    height: 16px;
+    border-radius: 999px;
+    border: 1px solid black;
+    background: linear-gradient(90deg,blue 10%, white 15%);
+}
+.python {
+    background: linear-gradient(90deg,blue 25%, white 30%);
+}
